@@ -12,7 +12,7 @@
     "save_freq": 10000,
     "use_policy_training_preset": true,
     "wandb": {
-      "enable": true,
+      "enable": false,
       "project": "franka_sim_touch"
     },
     "dataset": {
