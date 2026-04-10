@@ -74,7 +74,7 @@ if __name__ == '__main__':
             "opencv-python",
             "roboticstoolbox-python",
             "sympy",
-            "panda3d==1.10.11",
+            "panda3d>=1.10.11",
             "trimesh",
             "kivymd"
         ],
